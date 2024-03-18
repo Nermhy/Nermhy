@@ -11,15 +11,4 @@ You can click the Preview link to take a look at your changes.
 ![200w](https://github.com/Nermhy/Nermhy/assets/134065864/526e5245-6728-4f3d-be9b-85182945aa15)
 
 ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Example</title>
-</head>
-<body>
-    <h1>Hello, world!</h1>
-    <p>This is an example HTML code.</p>
-</body>
-</html>
+✨
