@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: dm me in discord
+- My dream is open my own company, to provide services (for example: hosting, wallet/bank and etc.)
 
 <!---
 Nermhy/Nermhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
