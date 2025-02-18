@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nermhy Fullstack programmer and web/graphic/industrial Designer.
-- I know these languages: JS/TS, LuaU, html/css.
+- I know these languages: JS/TS, LuaU, html/css and little bit python.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any project
